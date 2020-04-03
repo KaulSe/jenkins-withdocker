@@ -1,6 +1,6 @@
 # Jenkins Server
 This [docker image](https://github.com/KaulSe/jenkins-withdocker/) is a fork from `https://github.com/getintodevops/jenkins-withdocker`.
-This image also contains the `docker-compose` binary and `terraform`.
+This image also contains the `docker-compose` binary and `terraform` (v. 0.12.23).
 
 You may want to use `docker-compose` to run this server:
 
