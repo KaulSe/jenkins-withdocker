@@ -13,8 +13,6 @@ services:
     volumes:
       - jenkins_volume:/var/jenkins_home
       - /var/run/docker.sock:/var/run/docker.sock
-    networks:
-      traefik_webgateway:
 
 volumes:
   jenkins_volume:
